@@ -113,6 +113,7 @@ Before you begin, make sure you've completed the following prerequisites:
     $RG = "YourResourceGroupName"
 
     #Define the region you will use to register your server as Arc device
+     ***When defining $Region do not use capital letters or spaces***
     $Region = "eastus"
     
     #Define the tenant you will use to register your server as Arc device
